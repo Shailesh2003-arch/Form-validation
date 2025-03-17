@@ -52,7 +52,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
       document.getElementById("form").submit();
     }
-
-    // document.getElementById("form").submit();
   });
 });
